@@ -1,7 +1,10 @@
 
 <img src="https://camo.githubusercontent.com/4fa9a5bdefafee7e59ad2086429306dfc0c902d0db4d2d1fdfb534b1767d9f62/68747470733a2f2f646576656c6f706572732e67697068792e636f6d2f6272616e63682f6d61737465722f7374617469632f6170692d35313264333663303936363236383237313731303861333862626235633537642e676966" alt="MasterHead" data-canonical-src="https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
-<h1 align="center">Hi 👋, I'm Sohom</h1>
-<h3 align="center">A passionate and aspiring software engineer from India</h3>
+
+<div align="center" width=100%>
+  <a href="#"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=700&size=30&pause=1000&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I+am+Sohom+Ghosh;A+Full+Stack+Developer;I+love+Coding;System.exit(0)+%F0%9F%91%8B" alt="Typing SVG" /></a>
+</div>
+
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=sohomghosh10&label=Profile%20views&color=0e75b6&style=flat" alt="sohomghosh10" /> </p>
