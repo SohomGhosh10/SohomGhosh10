@@ -38,5 +38,8 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sohomghosh10&" alt="sohomghosh10" /></p>
 
+<h3 align="center">📊 Coding Stats 📈</h3>
+<p align="center"><img src="https://leetcard.jacoblin.cool/SohomGhosh?ext=heatmap&theme=dark"></p>
+
 <p align="center"><img src="https://github-contributor-stats.vercel.app/api?username=SohomGhosh10&limit=5&theme=radical&combine_all_yearly_contributions=true" alt="Contributor Stats" /></p>
 
