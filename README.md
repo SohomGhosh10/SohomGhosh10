@@ -39,9 +39,9 @@
 </div></a> </p>
 <h3 align="center">GitHub Stats</h3>
 <div align="center">
-    <img height="160px" width="160px" src="images/wings/Left.svg" alt="Left Wing">
+    <img height="160px" width="160px" src="Left.svg" alt="Left Wing">
     <img align="top" src="https://github-readme-streak-stats.herokuapp.com/?user=SohomGhosh10&theme=windows-dark&hide_border=true" alt="Streak Stats">
-    <img height="160px" width="160px" src="images/wings/Right.svg" alt="Right Wing">
+    <img height="160px" width="160px" src="Right.svg" alt="Right Wing">
     <p></p>
     <img src="https://github-readme-stats.vercel.app/api?username=SohomGhosh10&show_icons=true&locale=en&theme=github_dark&hide_border=true&bg_color=000000&count_private=true" alt="GitHub Stats">
     &nbsp;&nbsp;
