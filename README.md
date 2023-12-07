@@ -31,16 +31,20 @@
 <p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sohomghosh10" alt="sohomghosh10" /></a> </p>
+<h3 align="center">GitHub Stats</h3>
+<div align="center">
+    <img height="160px" width="160px" src="images/wings/Left.svg" alt="Left Wing">
+    <img align="top" src="https://github-readme-streak-stats.herokuapp.com/?user=SohomGhosh10&theme=windows-dark&hide_border=true" alt="Streak Stats">
+    <img height="160px" width="160px" src="images/wings/Right.svg" alt="Right Wing">
+    <p></p>
+    <img src="https://github-readme-stats.vercel.app/api?username=SohomGhosh10&show_icons=true&locale=en&theme=github_dark&hide_border=true&bg_color=000000&count_private=true" alt="GitHub Stats">
+    &nbsp;&nbsp;
+    <img align=top src="https://github-readme-stats.vercel.app/api/top-langs?username=SohomGhosh10&show_icons=true&locale=en&theme=github_dark&hide_border=true&bg_color=000000&layout=compact&langs_count=10&hide=assembly,fortran,rust,java,r,dart,c%23,jupyter%20notebook,c%2B%2B,tex,pug" height="194.8px" alt="Language Stats">
+</div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sohomghosh10&show_icons=true&locale=en&layout=compact" alt="sohomghosh10" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sohomghosh10&show_icons=true&locale=en" alt="sohomghosh10" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sohomghosh10&" alt="sohomghosh10" /></p>
 <!-- LeetCode stats -->
 <h3 align="center">📊 Coding Stats 📈</h3>
 <p align="center"><img src="https://leetcard.jacoblin.cool/Sohom10?ext=heatmap&theme=dark"></p>
-
 
 <p align="center"><img src="https://github-contributor-stats.vercel.app/api?username=SohomGhosh10&limit=5&theme=radical&combine_all_yearly_contributions=true" alt="Contributor Stats" /></p>
 
