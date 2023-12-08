@@ -45,7 +45,7 @@
     <p></p>
     <img src="https://github-readme-stats.vercel.app/api?username=SohomGhosh10&show_icons=true&locale=en&theme=github_dark&hide_border=true&bg_color=000000&count_private=true" alt="GitHub Stats">
     &nbsp;&nbsp;
-    <img align=top src="https://github-readme-stats.vercel.app/api/top-langs?username=SohomGhosh10&show_icons=true&locale=en&theme=github_dark&hide_border=true&bg_color=000000&layout=compact&langs_count=10&hide=assembly,fortran,rust,java,r,dart,c%23,jupyter%20notebook,c%2B%2B,tex,pug" height="194.8px" alt="Language Stats">
+   <img width=370 align=top src="https://github-readme-stats.vercel.app/api/top-langs?username=SohomGhosh10&show_icons=true&locale=en&theme=react&border_radius=10&layout=compact&langs_count=10" height="194.8px" alt="language stats">
 </div>
 
 <!-- LeetCode stats -->
