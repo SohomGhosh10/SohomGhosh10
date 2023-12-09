@@ -7,7 +7,7 @@
    </div>
 
 <div align="center" width=100%>
-  <a href="#"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=700&size=30&pause=1000&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I+am+Sohom+Ghosh;CSE+Undergrad+At+UEMK;A+Full+Stack+Developer;I+love+Coding+%F0%9F%91%8B%2C;System.exit(0)+%F0%9F%91%8B" alt="Typing SVG" /></a>
+  <a href="#"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=700&size=30&pause=1000&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I+am+Sohom+Ghosh;CSE+Undergrad+At+UEMK;A+Full+Stack+Developer;Mastering+Python+and+Web+Dev;I+love+Coding+%F0%9F%91%8B%2C;System.exit(0)+%F0%9F%91%8B" alt="Typing SVG" /></a>
 </div>
 
 
