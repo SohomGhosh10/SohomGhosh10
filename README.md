@@ -6,6 +6,11 @@
 
    </div>
 
+<p align="center">
+    <a href="https://www.linkedin.com/in/sohom-ghosh-76306627b/"><img height="34" src="linkedin.svg" alt="LinkedIn"></a>&nbsp;&nbsp;
+    <a href="https://raw.githubusercontent.com/SohomGhosh10/ark-resume/main/SohomGhosh10_Resume.pdf"><img height="34" src="images/social/resume.svg" alt="Resume"></a>
+</p>
+
 <div align="center" width=100%>
   <a href="#"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=700&size=30&pause=1000&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I+am+Sohom+Ghosh;CSE+Undergrad+At+UEMK;A+Full+Stack+Developer;Mastering+Python+and+Web+Dev;I+love+Coding+%F0%9F%91%8B%2C;System.exit(0)+%F0%9F%91%8B" alt="Typing SVG" /></a>
 </div>
