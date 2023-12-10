@@ -7,6 +7,7 @@
    </div>
 
 <p align="center">
+   <a href="https://www.instagram.com/sohom06/"><img height="34" src="Instagram.png" alt="Instagram"></a>&nbsp;&nbsp;
     <a href="https://www.linkedin.com/in/sohom-ghosh-76306627b/"><img height="34" src="linkedin.svg" alt="LinkedIn"></a>&nbsp;&nbsp;
     <a href="https://raw.githubusercontent.com/SohomGhosh10/ark-resume/main/SohomGhosh10_Resume.pdf"><img height="34" src="images/social/resume.svg" alt="Resume"></a>
 </p>
