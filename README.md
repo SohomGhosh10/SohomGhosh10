@@ -3,10 +3,10 @@
 </div>
 
 <!-- profile views -->
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=BanerjeeRajdeep&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=SohomGhosh10&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /> </p>
 
 <!-- social links -->
-<h3 align="center">Social</h3>
+<h3 align="center">Social Media</h3>
 
 
 <p align="center">
