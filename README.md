@@ -2,10 +2,10 @@
    <img align="center"  width=70% height=15% src="https://www.autoitscript.com/forum/uploads/monthly_2020_03/tech.gif.7449db47191b0e32967887c117908b3c.gif">
 </div>
 
-<!-- profile views ---->
+<!-- profile views ----->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=SohomGhosh10&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /> </p>
 
-<!-- social links ---->
+<!-- social links ----->
 <h3 align="center">Social Media</h3>
 
 
